@@ -1,0 +1,63 @@
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.deps.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.csprojAssemblyReference.cache
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfoInputs.cache
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfo.cs
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.dev.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.deps.json
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.json
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.dev.json
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfoInputs.cache
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfo.cs
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.csproj.CoreCompileInputs.cache
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.dll
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\Licitaciones\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.genruntimeconfig.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.deps.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.dev.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfoInputs.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfo.cs
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.csproj.CoreCompileInputs.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.genruntimeconfig.cache
+C:\source\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.deps.json
+C:\source\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.json
+C:\source\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.dev.json
+C:\source\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\source\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\source\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfoInputs.cache
+C:\source\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfo.cs
+C:\source\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.dll
+C:\source\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.deps.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.genruntimeconfig.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.deps.json
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.json
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Api.Data\obj\Debug\netcoreapp3.0\Api.Data.genruntimeconfig.cache

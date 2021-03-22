@@ -1,0 +1,35 @@
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.deps.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Data.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.csprojAssemblyReference.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.AssemblyInfoInputs.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.AssemblyInfo.cs
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.csproj.CoreCompileInputs.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.csproj.CopyComplete
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.pdb
+C:\source\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.deps.json
+C:\source\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.dll
+C:\source\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.pdb
+C:\source\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Data.dll
+C:\source\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Data.pdb
+C:\source\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.csprojAssemblyReference.cache
+C:\source\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.AssemblyInfoInputs.cache
+C:\source\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.AssemblyInfo.cs
+C:\source\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.csproj.CopyComplete
+C:\source\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.dll
+C:\source\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.deps.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Business.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Data.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\bin\Release\netcoreapp3.0\Api.Data.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.csproj.CopyComplete
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Api.Business\obj\Release\netcoreapp3.0\Api.Business.pdb

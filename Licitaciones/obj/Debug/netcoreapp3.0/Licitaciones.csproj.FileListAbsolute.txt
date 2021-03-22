@@ -1,0 +1,1100 @@
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.exe
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csprojAssemblyReference.cache
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfoInputs.cache
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfo.cs
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.RazorTargetAssemblyInfo.cache
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CopyComplete
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.deps.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.dev.json
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\octavio.suero\source\repos\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.exe
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.deps.json
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.json
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.dev.json
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.pdb
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csprojAssemblyReference.cache
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfoInputs.cache
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfo.cs
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CoreCompileInputs.cache
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.RazorTargetAssemblyInfo.cache
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CopyComplete
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Repositorios\Licitaciones\Licitaciones\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.genruntimeconfig.cache
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.exe
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.deps.json
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.json
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.dev.json
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.pdb
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csprojAssemblyReference.cache
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfoInputs.cache
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfo.cs
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CoreCompileInputs.cache
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.RazorTargetAssemblyInfo.cache
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CopyComplete
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.genruntimeconfig.cache
+C:\Repositorios\Licitaciones\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.json
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.exe
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.deps.json
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.json
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.dev.json
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.pdb
+C:\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csprojAssemblyReference.cache
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cs
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfoInputs.cache
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfo.cs
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.RazorTargetAssemblyInfo.cache
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CopyComplete
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.dll
+C:\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.exe
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.deps.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.dev.json
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csprojAssemblyReference.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfoInputs.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfo.cs
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CoreCompileInputs.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.RazorTargetAssemblyInfo.cache
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CopyComplete
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Repositorios\Licitaciones\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.genruntimeconfig.cache
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.json
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.exe
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.deps.json
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.json
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.dev.json
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.pdb
+C:\source\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csprojAssemblyReference.cache
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cs
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfoInputs.cache
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfo.cs
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.RazorTargetAssemblyInfo.cache
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CopyComplete
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.dll
+C:\source\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.exe
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.deps.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\itextsharp.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Word.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\PdfSharp.Charting.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\PdfSharp.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IO.Pipelines.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\PdfSharp.Charting.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\PdfSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Interop.Microsoft.Office.Core.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Interop.ACTIVEXLib.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.MSProject.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Interop.Microsoft.Office.Core.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Interop.ACTIVEXLib.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.MSProject.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.ResolveComReference.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.RazorTargetAssemblyInfo.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CopyComplete
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta Darwin\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.genruntimeconfig.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.exe
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.deps.json
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.json
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\DocumentFormat.OpenXml.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\itextsharp.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Word.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Access.dao.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Access.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\PdfSharp.Charting.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\PdfSharp.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.IO.Pipelines.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\PdfSharp.Charting.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\de\PdfSharp.resources.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Business.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Interop.Microsoft.Office.Core.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Interop.ACTIVEXLib.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\bin\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.MSProject.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Interop.Microsoft.Office.Core.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Interop.ACTIVEXLib.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.MSProject.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.ResolveComReference.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.RazorTargetAssemblyInfo.cache
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.csproj.CopyComplete
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.dll
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.pdb
+C:\Users\DesarrolloSOS\Documents\Propuesta\backend\ArchiveroBackend\Licitaciones\obj\Debug\netcoreapp3.0\Licitaciones.genruntimeconfig.cache
